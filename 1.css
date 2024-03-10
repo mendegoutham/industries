@@ -1,0 +1,20 @@
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── goutham
+│   │   │           └── industries
+│   │   │               ├── controller
+│   │   │               │   └── LoginController.java
+│   │   │               ├── model
+│   │   │               │   └── User.java
+│   │   │               ├── service
+│   │   │               │   └── UserService.java
+│   │   │               └── GouthamIndustriesApplication.java
+│   │   ├── resources
+│   │   │   └── templates
+│   │   │       └── login.html
+│   │   └── resources
+│   │       └── application.properties
+│   └── test
+└── pom.xml
